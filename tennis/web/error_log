@@ -1,0 +1,231 @@
+[05-Jan-2022 06:22:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 07:28:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 07:37:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 07:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 10:32:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 11:09:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 15:23:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 15:45:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 16:24:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 19:00:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 19:55:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 20:01:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 20:08:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 20:59:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 21:41:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 21:53:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 21:56:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[05-Jan-2022 22:17:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[06-Jan-2022 01:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[06-Jan-2022 03:55:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
+[06-Jan-2022 03:58:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function update() on null in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php:203
+Stack trace:
+#0 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI_Actions->check_upgrade_routines('')
+#1 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(429): do_action('optin_monster_a...')
+#4 /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/optin-monster-wp-api.php(354): OMAPI->load_global()
+#5 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(303): OMAPI->init('')
+#6 /home3/sociakvu/ttsuperleague.in/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#7 /home3/sociakvu/ttsuperleague.in/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#8 /home3/soc in /home3/sociakvu/ttsuperleague.in/wp-content/plugins/optinmonster/OMAPI/Actions.php on line 203
